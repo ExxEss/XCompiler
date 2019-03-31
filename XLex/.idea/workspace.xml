@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/yuguox/RegexConverter.java" line="95" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7f78fea-e865-405e-83fa-e2718c2dd057" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="297668109">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="9" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="16209" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16209" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-301871606">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="43" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="10" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="10473" />
+          <entry key="txt" value="1071" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10473" />
+          <entry key="PLAIN_TEXT" value="1071" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="groovy" value="1" />
+          <entry key="java" value="7" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="XLexer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/RegexChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#RegexChecker#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#isCorrectRegex#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#wellFormedChars#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#isFirstCharCorrect#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#isEmptyParentesisPair#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#isOperator#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#letterAndOperators#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#isSeparator#0;class#RegexChecker#0" expanded="true" />
+                <element signature="method#wellCombinatedOperators#0;class#RegexChecker#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/RegexConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="180" column="45" selection-start-line="180" selection-start-column="45" selection-end-line="180" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#RegexConverter#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#getBasicList#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#firstTypeConverter#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#secondTypeConverter#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#thirdTypeConverter#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#moveToLeftParenthesis#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#moveToRightParenthesis#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#findFowardIndex#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#isFinalized#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#isAccepted#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#addIR#0;class#RegexConverter#0" expanded="true" />
+                <element signature="method#addBasicIR#0;class#RegexConverter#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+              <folding>
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="method#equals#0;class#State#0" expanded="true" />
+                <element signature="method#compareStateList#0;class#State#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/Transition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="method#equals#0;class#Transition#0" expanded="true" />
+                <element signature="method#compareArray#0;class#Transition#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/Automata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="78" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Automata#0;class#Automata#0" expanded="true" />
+                <element signature="method#matchInput#0;class#Automata#0" expanded="true" />
+                <element signature="method#moveToNextState#0;class#Automata#0" expanded="true" />
+                <element signature="method#getTransition#0;class#Automata#0" expanded="true" />
+                <element signature="method#generateTransitionTable#0;class#Automata#0" expanded="true" />
+                <element signature="method#transit#0;class#Automata#0" expanded="true" />
+                <element signature="method#goTo#0;class#Automata#0" expanded="true" />
+                <element signature="method#mergeList#0;class#Automata#0" expanded="true" />
+                <element signature="method#intMapToChar#0;class#Automata#0" expanded="true" />
+                <element signature="method#charMapToInt#0;class#Automata#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/AutomataMinimizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/ReadFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuguox/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>regexChecker</find>
+      <find>nobasicQueue</find>
+      <find>nonbasicQueue</find>
+      <find>newState</find>
+      <find>separator</find>
+      <find>conversion</find>
+      <find>rightRarentes</find>
+      <find>IndexedRegex</find>
+      <find>out</find>
+      <find>System.out</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nonBasicStack</replace>
+      <replace>neoState</replace>
+      <replace>firstTypeConverter</replace>
+      <replace>parenthesisSearchingOnly</replace>
+      <replace>moveToRightParenthesis(</replace>
+      <replace>MIRgex</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/yuguox/StringIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/Alphabet.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/REChecker.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/MIRegex.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/State.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/RegexChecker.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/Transition.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/IndexedRegex.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/ReadFile.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/AutomataMinimizer.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/RegexConverter.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/README.txt" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/Automata.java" />
+        <option value="$PROJECT_DIR$/src/com/yuguox/AutomataTest.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="XLex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="XLex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XLex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="XLex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542139142618" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yuguox" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.yuguox.Main" />
+      <module name="XLexer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7f78fea-e865-405e-83fa-e2718c2dd057" name="Default Changelist" comment="" />
+      <created>1535819346019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535819346019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4980198" weight="0.34334764" />
+      <window_info id="Structure" order="1" sideWeight="0.5019802" side_tool="true" weight="0.2513312" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.5009901" side_tool="true" weight="0.2513312" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39156628" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3990099" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32650602" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.32871288" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26746988" />
+      <window_info anchor="bottom" id="Tail" order="11" />
+      <window_info anchor="bottom" id="Statistic" order="12" weight="0.32871288" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297568" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" order="8" side_tool="true" weight="0.32904148" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/StringIndex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/Alphabet.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3917" />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="139" column="30" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/MIRegex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/IndexedRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="18" column="74" selection-start-line="18" selection-start-column="74" selection-end-line="18" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/AutomataTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/RegexConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="180" column="45" selection-start-line="180" selection-start-column="45" selection-end-line="180" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#RegexConverter#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#getBasicList#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#firstTypeConverter#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#secondTypeConverter#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#thirdTypeConverter#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#moveToLeftParenthesis#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#moveToRightParenthesis#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#findFowardIndex#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#isFinalized#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#isAccepted#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#addIR#0;class#RegexConverter#0" expanded="true" />
+            <element signature="method#addBasicIR#0;class#RegexConverter#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="method#equals#0;class#State#0" expanded="true" />
+            <element signature="method#compareStateList#0;class#State#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/Transition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="method#equals#0;class#Transition#0" expanded="true" />
+            <element signature="method#compareArray#0;class#Transition#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/Automata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Automata#0;class#Automata#0" expanded="true" />
+            <element signature="method#matchInput#0;class#Automata#0" expanded="true" />
+            <element signature="method#moveToNextState#0;class#Automata#0" expanded="true" />
+            <element signature="method#getTransition#0;class#Automata#0" expanded="true" />
+            <element signature="method#generateTransitionTable#0;class#Automata#0" expanded="true" />
+            <element signature="method#transit#0;class#Automata#0" expanded="true" />
+            <element signature="method#goTo#0;class#Automata#0" expanded="true" />
+            <element signature="method#mergeList#0;class#Automata#0" expanded="true" />
+            <element signature="method#intMapToChar#0;class#Automata#0" expanded="true" />
+            <element signature="method#charMapToInt#0;class#Automata#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/AutomataMinimizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="46" column="31" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuguox/RegexChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#RegexChecker#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#isCorrectRegex#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#wellFormedChars#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#isFirstCharCorrect#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#isEmptyParentesisPair#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#isOperator#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#letterAndOperators#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#isSeparator#0;class#RegexChecker#0" expanded="true" />
+            <element signature="method#wellCombinatedOperators#0;class#RegexChecker#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>XLexer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
